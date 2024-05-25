@@ -1,0 +1,5 @@
+/* Styling Material UI Compnents with the component variant specific class names. */
+
+.MuiTypography-h1 {
+    padding-top: 50px;
+  }

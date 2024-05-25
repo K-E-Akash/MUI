@@ -1,0 +1,28 @@
+{
+  "Reviews": [
+    {
+      "id": "2",
+      "Email": "varu@gmail.com",
+      "Details": "Very Impressive",
+      "Rate": "verygood"
+    },
+    {
+      "id": "cbee",
+      "Email": "ramu@gmail.com",
+      "Details": "",
+      "Rate": "average"
+    },
+    {
+      "id": "37c3",
+      "Email": "anuj@gmail.com",
+      "Details": "I am happy to get this service, i enjoyed very well",
+      "Rate": "excellent"
+    },
+    {
+      "id": "edac",
+      "Email": "vishnu@yaahoo.in",
+      "Details": "OK",
+      "Rate": "average"
+    }
+  ]
+}
